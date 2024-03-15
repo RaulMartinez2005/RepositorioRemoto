@@ -8,6 +8,8 @@ public class Principal {
 		
 		System.out.println("Otro mensaje");
 		
+		System.out.println("Otro mensaje");
+		
 	}
 
 }
